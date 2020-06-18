@@ -8,3 +8,8 @@
 - Do they know that he has a broken foot? Why or why not?
 - Do they know what the results were of Jerry's blood work? Why or why not?
 - Do they know that he has a history of low blood pressure? Why or why not?
+
+### `Answers`
+- Yes, Hospital B will know jerry have broken foot. A radiologist and orthopedic surgeon can look at DICOM file to see the fracture foot. 
+- Hospital B will not know results of Jerry's blood work because it is  not included in DICOM. It comes under clinical data and stored in EMR .
+- Hospital B will not know about Jerry's medical history for similar reasons it is not stored in DICOM study.
